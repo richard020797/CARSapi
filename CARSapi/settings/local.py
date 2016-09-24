@@ -6,7 +6,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
         'NAME': 'CARSapi_database',
         'USER': 'CARSapi_admin',
-        'PASSWORD': '1234567890',
+        'PASSWORD': '1q2w3e4r',
         'HOST': 'localhost',
         'PORT': '5432'
     }
